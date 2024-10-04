@@ -7,6 +7,7 @@ function App() {
       <Food name="🍔" />
       <Food name="🍦" />
       <Food name="☕️" />
+      <Food name="🍌" />
     </>
   );
 }
